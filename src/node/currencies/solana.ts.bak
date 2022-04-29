@@ -1,6 +1,6 @@
 import { Signer } from "arbundles/src/signing";
 import BigNumber from "bignumber.js";
-import * as web3 from "@safecoin/web3.js";
+import * as web3 from "@solana/web3.js";
 import { signers } from "arbundles";
 import bs58 from "bs58";
 import nacl from "tweetnacl";
