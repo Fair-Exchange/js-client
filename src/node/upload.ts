@@ -6,7 +6,7 @@ import Api from "../common/api";
 import Utils from "../common/utils";
 import * as p from "path"
 import mime from "mime-types";
-import { createData, DataItem } from "arbundles";
+import { createData, DataItem } from "@j0nnyboi/arbundles";
 import inquirer from "inquirer";
 import { Readable } from "stream";
 import * as csv from "csv"

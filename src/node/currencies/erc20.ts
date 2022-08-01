@@ -1,6 +1,6 @@
 import BigNumber from "bignumber.js";
 import { ethers, Wallet } from "ethers";
-import keccak256 from "arbundles/src/signing/keccak256";
+import keccak256 from "@j0nnyboi/arbundles/src/signing/keccak256";
 import { CurrencyConfig, Tx } from "../../common/types";
 import { getRedstonePrice } from "../currency";
 import EthereumConfig from "./ethereum";

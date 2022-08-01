@@ -3,12 +3,12 @@ import { withdrawBalance } from "./withdrawal";
 import Uploader from "./upload";
 import Fund from "./fund";
 import { AxiosResponse } from "axios";
-import { DataItemCreateOptions } from "arbundles";
+import { DataItemCreateOptions } from "@j0nnyboi/arbundles";
 import BundlrTransaction from "./transaction";
 import Api from "./api";
 import BigNumber from "bignumber.js";
 import { Currency, FundData } from "./types";
-import { Signer } from "arbundles/src/signing";
+import { Signer } from "@j0nnyboi/arbundles/src/signing";
 
 export default abstract class Bundlr {
     public api: Api;
