@@ -1,5 +1,5 @@
 {
-  "name": "@j0nnyboi/client",
+  "name": "@safecoin/client",
   "version": "0.7.3",
   "description": "JS client for Bundlr nodes",
   "repository": "https://github.com/Bundlr-Network/js-client.git",
