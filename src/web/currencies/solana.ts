@@ -1,4 +1,4 @@
-import { HexInjectedSolanaSigner, Signer } from "@j0nnyboi/arbundles/src/signing";
+import { HexInjectedSolanaSigner, Signer } from "@safecoin/arbundles/src/signing";
 import BigNumber from "bignumber.js";
 import { CurrencyConfig, Tx } from "../../common/types";
 import BaseWebCurrency from "../currency";

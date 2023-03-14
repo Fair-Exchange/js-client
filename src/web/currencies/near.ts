@@ -1,4 +1,4 @@
-import { NearSigner, Signer } from "@j0nnyboi/arbundles/src/signing";
+import { NearSigner, Signer } from "@safecoin/arbundles/src/signing";
 import BigNumber from "bignumber.js";
 import { CurrencyConfig, Tx } from "../../common/types"
 import { KeyPair, utils, transactions, providers, WalletConnection, Near, keyStores } from "near-api-js"

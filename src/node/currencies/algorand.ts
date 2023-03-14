@@ -1,4 +1,4 @@
-import { AlgorandSigner, Signer } from "@j0nnyboi/arbundles/src/signing";
+import { AlgorandSigner, Signer } from "@safecoin/arbundles/src/signing";
 import BigNumber from "bignumber.js";
 import { CurrencyConfig, Tx } from "../../common/types"
 import BaseNodeCurrency from "../currency"

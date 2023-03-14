@@ -1,5 +1,5 @@
-import { createData, DataItem, DataItemCreateOptions } from "@j0nnyboi/arbundles";
-import { Signer } from "@j0nnyboi/arbundles/src/signing";
+import { createData, DataItem, DataItemCreateOptions } from "@safecoin/arbundles";
+import { Signer } from "@safecoin/arbundles/src/signing";
 import Bundlr from "./bundlr";
 import Crypto from "crypto"
 

@@ -1,7 +1,7 @@
-import { Signer } from "@j0nnyboi/arbundles/src/signing";
+import { Signer } from "@safecoin/arbundles/src/signing";
 import BigNumber from "bignumber.js";
 import * as web3 from "@safecoin/web3.js";
-import { signers } from "@j0nnyboi/arbundles";
+import { signers } from "@safecoin/arbundles";
 import bs58 from "bs58";
 import nacl from "tweetnacl";
 import { CurrencyConfig, Tx } from "../../common/types";
